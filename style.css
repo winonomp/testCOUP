@@ -4,6 +4,11 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
+
+.nav{
+    position: relative;
+    z-index: 100;
+}
   .sticky {
     position: fixed;
     top: 0;
