@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="766px" height="811px" viewBox="0 0 766 811" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>0DE21421-DA63-4373-BAD3-7F33A2D69C6B@1x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="96.25" cy="96.25" r="96.25"></circle>
+        <circle id="path-3" cx="96.25" cy="96.25" r="96.25"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="192.5" height="192.5" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <circle id="path-5" cx="96.25" cy="96.25" r="96.25"></circle>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="192.5" height="192.5" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <circle id="path-7" cx="96.25" cy="96.25" r="96.25"></circle>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="192.5" height="192.5" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <circle id="path-9" cx="96.25" cy="96.25" r="96.25"></circle>
+        <circle id="path-11" cx="96.25" cy="96.25" r="96.25"></circle>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="192.5" height="192.5" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <circle id="path-13" cx="96.25" cy="96.25" r="96.25"></circle>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="192.5" height="192.5" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <circle id="path-15" cx="96.25" cy="96.25" r="96.25"></circle>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="192.5" height="192.5" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <circle id="path-17" cx="96.25" cy="96.25" r="96.25"></circle>
+        <circle id="path-19" cx="96.25" cy="96.25" r="96.25"></circle>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="192.5" height="192.5" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+        <circle id="path-21" cx="96.25" cy="96.25" r="96.25"></circle>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="192.5" height="192.5" fill="white">
+            <use xlink:href="#path-21"></use>
+        </mask>
+        <circle id="path-23" cx="96.25" cy="96.25" r="96.25"></circle>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="192.5" height="192.5" fill="white">
+            <use xlink:href="#path-23"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Fundraising-COUP---Anti-Dilution-Page" transform="translate(-338.000000, -2456.000000)">
+            <g id="Group-2" transform="translate(338.000000, 2451.000000)">
+                <rect id="Rectangle-9" fill="#ECEBE6" opacity="0.100000001" x="31" y="605" width="3" height="55"></rect>
+                <rect id="Rectangle-9-Copy" fill="#ECEBE6" opacity="0.100000001" x="380" y="605" width="3" height="55"></rect>
+                <rect id="Rectangle-9-Copy" fill="#ECEBE6" opacity="0.100000001" transform="translate(407.500000, 658.500000) rotate(-90.000000) translate(-407.500000, -658.500000) " x="406" y="631" width="3" height="55"></rect>
+                <rect id="Rectangle-9-Copy-2" fill="#ECEBE6" opacity="0.100000001" transform="translate(61.500000, 658.500000) rotate(-90.000000) translate(-61.500000, -658.500000) " x="60" y="631" width="3" height="55"></rect>
+                <polygon id="Rectangle-3-Copy" fill="#131416" points="59 682 354 682 354 816 59 816"></polygon>
+                <g id="Group-2-Copy" transform="translate(58.000000, 636.000000)">
+                    <rect id="Rectangle-3-Copy-2" stroke="#8A8B91" fill="#181A1C" x="1.1500565" y="0.5" width="294.088776" height="44.8333333"></rect>
+                    <text id="Narrow-based-weighte" font-family="Helvetica" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="16.1860967" y="24.75">Narrow-based weighted-average price</tspan>
+                    </text>
+                    <text id="=" font-family="Helvetica" font-size="27.5" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="262.777778" y="29.0555556">=</tspan>
+                    </text>
+                </g>
+                <text id="(Share-price-Series" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="22.9166667" fill="#FFFFFF">
+                    <tspan x="79.4838867" y="724">(Share price Series A        Share price Series B) </tspan>
+                </text>
+                <line x1="115.7625" y1="752.5" x2="297.2375" y2="752.5" id="Line-Copy" stroke="#FFFFFF" stroke-width="1.52777778" opacity="0.100000001" stroke-linecap="square"></line>
+                <text id="(Series-A-shares-Ser" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="18.3333333" fill="#8A8B91">
+                    <tspan x="103.006293" y="780">(Series A shares        Series B shares )</tspan>
+                </text>
+                <g id="minus" transform="translate(199.000000, 717.000000)">
+                    <g id="Group-4">
+                        <rect id="Rectangle-4-Copy-6" fill="#FFFFFF" x="0" y="0" width="14" height="14"></rect>
+                        <polygon id="-" fill="#240048" points="4.27 7.79333333 4.27 6.20666667 9.73 6.20666667 9.73 7.79333333"></polygon>
+                    </g>
+                </g>
+                <g id="Rectangle-4-Copy-8" transform="translate(198.000000, 771.000000)">
+                    <rect id="Rectangle-4-Copy-6" fill="#FFFFFF" x="0" y="0" width="14" height="14"></rect>
+                    <polygon id="+" fill="#240048" points="7.679 7.665 7.679 9.877 6.321 9.877 6.321 7.665 4.123 7.665 4.123 6.307 6.321 6.307 6.321 4.123 7.679 4.123 7.679 6.307 9.877 6.307 9.877 7.665"></polygon>
+                </g>
+                <polygon id="Rectangle-3-Copy" fill="#131416" points="409 682 704 682 704 816 409 816"></polygon>
+                <g id="Group-2-Copy" transform="translate(408.000000, 636.000000)">
+                    <rect id="Rectangle-3-Copy-2" stroke="#8A8B91" fill="#181A1C" x="1.1500565" y="0.5" width="294.088776" height="44.8333333"></rect>
+                    <text id="Broad-based-weighted" font-family="Helvetica" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="16.1860967" y="24.75">Broad-based weighted-average price</tspan>
+                    </text>
+                    <text id="=" font-family="Helvetica" font-size="27.5" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="262.777778" y="29.0555556">=</tspan>
+                    </text>
+                </g>
+                <text id="(Investment-Series-A" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="22.9166667" fill="#FFFFFF">
+                    <tspan x="435.054905" y="708">(Investment Series A        shares of founders </tspan>
+                    <tspan x="443.627767" y="730.916667">@Series A price        Investment Series B)</tspan>
+                </text>
+                <line x1="465.7625" y1="752.5" x2="647.2375" y2="752.5" id="Line-Copy" stroke="#FFFFFF" stroke-width="1.52777778" opacity="0.100000001" stroke-linecap="square"></line>
+                <text id="(Series-A-shares-Ser" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="18.3333333" fill="#8A8B91">
+                    <tspan x="453.006293" y="780">(Series A shares        Series B shares )</tspan>
+                </text>
+                <g id="Rectangle-4-Copy-9" transform="translate(548.000000, 771.000000)">
+                    <rect id="Rectangle-4-Copy-6" fill="#FFFFFF" x="0" y="0" width="14" height="14"></rect>
+                    <polygon id="+" fill="#240048" points="7.679 7.665 7.679 9.877 6.321 9.877 6.321 7.665 4.123 7.665 4.123 6.307 6.321 6.307 6.321 4.123 7.679 4.123 7.679 6.307 9.877 6.307 9.877 7.665"></polygon>
+                </g>
+                <g id="Rectangle-4-Copy-10" transform="translate(554.000000, 701.000000)">
+                    <rect id="Rectangle-4-Copy-6" fill="#FFFFFF" x="0" y="0" width="14" height="14"></rect>
+                    <polygon id="+" fill="#240048" points="7.679 7.665 7.679 9.877 6.321 9.877 6.321 7.665 4.123 7.665 4.123 6.307 6.321 6.307 6.321 4.123 7.679 4.123 7.679 6.307 9.877 6.307 9.877 7.665"></polygon>
+                </g>
+                <g id="Rectangle-4-Copy-11" transform="translate(537.000000, 725.000000)">
+                    <rect id="Rectangle-4-Copy-6" fill="#FFFFFF" x="0" y="0" width="14" height="14"></rect>
+                    <polygon id="+" fill="#240048" points="7.679 7.665 7.679 9.877 6.321 9.877 6.321 7.665 4.123 7.665 4.123 6.307 6.321 6.307 6.321 4.123 7.679 4.123 7.679 6.307 9.877 6.307 9.877 7.665"></polygon>
+                </g>
+                <rect id="Rectangle-12" fill="#131416" x="0" y="33" width="244" height="333"></rect>
+                <rect id="Rectangle-12" fill="#131416" x="260" y="33" width="244" height="333"></rect>
+                <rect id="Rectangle-12" fill="#131416" x="520" y="33" width="244" height="333"></rect>
+                <g id="3-Slices-Pie-Chart" transform="translate(26.000000, 100.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Oval-5-Copy"></g>
+                    <g id="#161032:21%" stroke-dasharray="127.0500055948893,962.4999999999999" mask="url(#mask-2)" stroke="#FF4F51" stroke-width="192.5">
+                        <use mask="url(#mask-4)" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="#FAFF81:24%" stroke-dasharray="145.2000013987223,962.4999999999999" mask="url(#mask-2)" transform="translate(96.250000, 96.250000) rotate(-75.600000) translate(-96.250000, -96.250000) " stroke="#FFB966" stroke-width="192.5">
+                        <use mask="url(#mask-6)" xlink:href="#path-5"></use>
+                    </g>
+                    <g id="#FFC53A:55%" stroke-dasharray="332.7500046624078,962.4999999999999" mask="url(#mask-2)" transform="translate(96.250000, 96.250000) rotate(-162.000000) translate(-96.250000, -96.250000) " stroke="#3AC97F" stroke-width="192.5">
+                        <use mask="url(#mask-8)" xlink:href="#path-7"></use>
+                    </g>
+                </g>
+                <g id="3-Slices-Pie-Chart-Copy" transform="translate(285.000000, 100.000000)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <g id="Oval-5-Copy"></g>
+                    <g id="#161032:21%" stroke-dasharray="127.0500055948893,962.4999999999999" mask="url(#mask-10)" stroke="#FF4F51" stroke-width="192.5">
+                        <use mask="url(#mask-12)" xlink:href="#path-11"></use>
+                    </g>
+                    <g id="#FAFF81:24%" stroke-dasharray="145.2000013987223,962.4999999999999" mask="url(#mask-10)" transform="translate(96.250000, 96.250000) rotate(-75.600000) translate(-96.250000, -96.250000) " stroke="#FFB966" stroke-width="192.5">
+                        <use mask="url(#mask-14)" xlink:href="#path-13"></use>
+                    </g>
+                    <g id="#FFC53A:55%" stroke-dasharray="332.7500046624078,962.4999999999999" mask="url(#mask-10)" transform="translate(96.250000, 96.250000) rotate(-162.000000) translate(-96.250000, -96.250000) " stroke="#3AC97F" stroke-width="192.5">
+                        <use mask="url(#mask-16)" xlink:href="#path-15"></use>
+                    </g>
+                </g>
+                <text id="Investor-A-might-pur" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="18.3333333" fill="#8A8B91">
+                    <tspan x="33.2025825" y="62">Investor A might purchase 1.389 </tspan>
+                    <tspan x="54.8361545" y="80.3333333">shares for nominal value</tspan>
+                </text>
+                <circle id="Oval-6" fill="#FFFFFF" cx="122.5" cy="196.5" r="70.5"></circle>
+                <circle id="Oval-6-Copy" fill="#FFFFFF" cx="381.5" cy="196.5" r="70.5"></circle>
+                <g id="3-Slices-Pie-Chart-Copy-2" transform="translate(545.000000, 100.000000)">
+                    <mask id="mask-18" fill="white">
+                        <use xlink:href="#path-17"></use>
+                    </mask>
+                    <g id="Oval-5-Copy"></g>
+                    <g id="#161032:21%" stroke-dasharray="127.0500055948893,962.4999999999999" mask="url(#mask-18)" stroke="#FF4F51" stroke-width="192.5">
+                        <use mask="url(#mask-20)" xlink:href="#path-19"></use>
+                    </g>
+                    <g id="#FAFF81:24%" stroke-dasharray="145.2000013987223,962.4999999999999" mask="url(#mask-18)" transform="translate(96.250000, 96.250000) rotate(-75.600000) translate(-96.250000, -96.250000) " stroke="#FFB966" stroke-width="192.5">
+                        <use mask="url(#mask-22)" xlink:href="#path-21"></use>
+                    </g>
+                    <g id="#FFC53A:55%" stroke-dasharray="332.7500046624078,962.4999999999999" mask="url(#mask-18)" transform="translate(96.250000, 96.250000) rotate(-162.000000) translate(-96.250000, -96.250000) " stroke="#3AC97F" stroke-width="192.5">
+                        <use mask="url(#mask-24)" xlink:href="#path-23"></use>
+                    </g>
+                </g>
+                <circle id="Oval-6-Copy-2" fill="#FFFFFF" cx="641.5" cy="196.5" r="70.5"></circle>
+                <text id="55%" font-family="Roboto-Regular, Roboto" font-size="21.3888889" font-weight="normal" fill="#3AC980">
+                    <tspan x="27" y="328">55%</tspan>
+                </text>
+                <text id="Founder" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="23" y="345">Founder</tspan>
+                </text>
+                <text id="Shareholding-with-we" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="18.3333333" fill="#181A1C">
+                    <tspan x="73.3143989" y="175">Shareholding with </tspan>
+                    <tspan x="74.3408746" y="193.333333">weighted-average </tspan>
+                    <tspan x="90.2154405" y="211.666667">anti-dilution </tspan>
+                    <tspan x="94.7719184" y="230">protection</tspan>
+                </text>
+                <text id="21%" font-family="Roboto-Regular, Roboto" font-size="21.3888889" font-weight="normal" fill="#FF4F51">
+                    <tspan x="102" y="328">21%</tspan>
+                </text>
+                <text id="24%" font-family="Roboto-Regular, Roboto" font-size="21.3888889" font-weight="normal" fill="#FFB966">
+                    <tspan x="177" y="328">24%</tspan>
+                </text>
+                <text id="Investor-A" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="95" y="345">Investor A</tspan>
+                </text>
+                <text id="Investor-B" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="167" y="345">Investor B</tspan>
+                </text>
+                <text id="Investor-A-might-pur" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="18.3333333" fill="#8A8B91">
+                    <tspan x="277.208279" y="62">Investor A might purchase 556 shares </tspan>
+                    <tspan x="333.906141" y="80.3333333">for nominal value</tspan>
+                </text>
+                <text id="55%" font-family="Roboto-Regular, Roboto" font-size="21.3888889" font-weight="normal" fill="#3AC980">
+                    <tspan x="287" y="328">55%</tspan>
+                </text>
+                <text id="Founder" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="283" y="345">Founder</tspan>
+                </text>
+                <text id="Shareholding-with-br" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="18.3333333" fill="#181A1C">
+                    <tspan x="333.314399" y="166">Shareholding with </tspan>
+                    <tspan x="348.717502" y="184.333333">broad-based </tspan>
+                    <tspan x="334.340875" y="202.666667">weighted-average </tspan>
+                    <tspan x="350.215441" y="221">anti-dilution </tspan>
+                    <tspan x="354.771918" y="239.333333">protection</tspan>
+                </text>
+                <text id="20%" font-family="Roboto-Regular, Roboto" font-size="21.3888889" font-weight="normal" fill="#FF4F51">
+                    <tspan x="362" y="328">20%</tspan>
+                </text>
+                <text id="25%" font-family="Roboto-Regular, Roboto" font-size="21.3888889" font-weight="normal" fill="#FFB966">
+                    <tspan x="437" y="328">25%</tspan>
+                </text>
+                <text id="Investor-A" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="354" y="345">Investor A</tspan>
+                </text>
+                <text id="Investor-B" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="426" y="345">Investor B</tspan>
+                </text>
+                <text id="Investor-A-might-pur" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="18.3333333" fill="#8A8B91">
+                    <tspan x="552.63227" y="62">Investor A might purchase 2,778 </tspan>
+                    <tspan x="573.836155" y="80.3333333">shares for nominal value</tspan>
+                </text>
+                <text id="53%" font-family="Roboto-Regular, Roboto" font-size="21.3888889" font-weight="normal" fill="#3AC980">
+                    <tspan x="547" y="328">53%</tspan>
+                </text>
+                <text id="Founder" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="542" y="345">Founder</tspan>
+                </text>
+                <text id="Shareholding-with-fu" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="18.3333333" fill="#181A1C">
+                    <tspan x="580.459201" y="180">Shareholding with full-</tspan>
+                    <tspan x="588.068251" y="198.333333">ratchet anti-dilution </tspan>
+                    <tspan x="613.771918" y="216.666667">protection</tspan>
+                </text>
+                <text id="23,5%" font-family="Roboto-Regular, Roboto" font-size="21.3888889" font-weight="normal" fill="#FF4F51">
+                    <tspan x="614" y="328">23,5%</tspan>
+                </text>
+                <text id="23,5%" font-family="Roboto-Regular, Roboto" font-size="21.3888889" font-weight="normal" fill="#FFB966">
+                    <tspan x="687" y="328">23,5%</tspan>
+                </text>
+                <text id="Investor-A" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="614" y="345">Investor A</tspan>
+                </text>
+                <text id="Investor-B" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="686" y="345">Investor B</tspan>
+                </text>
+                <text id="Narrow-Based-Weighte" font-family="Roboto-Regular, Roboto" font-size="15.2777778" font-weight="normal" line-spacing="19.8611111" fill="#FFFFFF">
+                    <tspan x="0" y="17">Narrow-Based Weighted-Average</tspan>
+                </text>
+                <text id="Broad-Based-Weighted" font-family="Roboto-Regular, Roboto" font-size="15.2777778" font-weight="normal" line-spacing="18.3333333" fill="#FFFFFF">
+                    <tspan x="261" y="18">Broad-Based Weighted-Average </tspan>
+                </text>
+                <text id="Full-Ratchet" font-family="Roboto-Regular, Roboto" font-size="15.2777778" font-weight="normal" line-spacing="21.3888889" fill="#FFFFFF">
+                    <tspan x="521" y="16">Full-Ratchet</tspan>
+                </text>
+                <polygon id="Rectangle-3-Copy" fill="#131416" points="0 437 244 437 244 612 0 612"></polygon>
+                <g id="Group-2-Copy" transform="translate(0.000000, 392.000000)">
+                    <rect id="Rectangle-3-Copy-2" stroke="#8A8B91" fill="#181A1C" x="0.5" y="0.5" width="243.444444" height="44.8333333"></rect>
+                    <text id="#-anti-dilution-shar" font-family="Helvetica" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="22.968967" y="26.2777778"># anti-dilution shares</tspan>
+                    </text>
+                    <text id="=" font-family="Helvetica" font-size="27.5" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="213.888889" y="29.0555556">=</tspan>
+                    </text>
+                </g>
+                <text id="(Share-price-Series" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="22.9166667" fill="#FFFFFF">
+                    <tspan x="29.4718967" y="468">(Share price Series A        Narrow- </tspan>
+                    <tspan x="36.4364149" y="490.916667">based weighted-average price) </tspan>
+                    <tspan x="62.262424" y="513.833333">   # Shares investor A</tspan>
+                </text>
+                <line x1="29.7625" y1="539.5" x2="211.2375" y2="539.5" id="Line-Copy" stroke="#FFFFFF" stroke-width="1.52777778" opacity="0.100000001" stroke-linecap="square"></line>
+                <text id="Narrow-based-weighte" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="18.3333333" fill="#8A8B91">
+                    <tspan x="82.0847439" y="567">Narrow-based </tspan>
+                    <tspan x="56.7391493" y="585.333333">weighted-average price</tspan>
+                </text>
+                <g id="minus" transform="translate(151.000000, 460.000000)">
+                    <g id="Group-4">
+                        <rect id="Rectangle-4-Copy-6" fill="#FFFFFF" x="0" y="0" width="14" height="14"></rect>
+                        <polygon id="-" fill="#240048" points="4.27 7.79333333 4.27 6.20666667 9.73 6.20666667 9.73 7.79333333"></polygon>
+                    </g>
+                </g>
+                <g id="mal" transform="translate(52.000000, 506.000000)">
+                    <g id="Group-5" transform="translate(0.015692, 0.000000)">
+                        <rect id="Rectangle-4-Copy-7" fill="#FFFFFF" x="0" y="0" width="13.5" height="14"></rect>
+                        <polygon id="×" fill="#240048" points="7.56 7 9 8.48088889 8.184 9.33955556 6.744 7.85866667 5.328 9.31466667 4.512 8.46844444 5.928 7 4.5 5.51911111 5.316 4.68533333 6.744 6.15377778 8.184 4.66044444 9 5.51911111"></polygon>
+                    </g>
+                </g>
+                <polygon id="Rectangle-3-Copy" fill="#131416" points="259 437 503 437 503 612 259 612"></polygon>
+                <g id="Group-2-Copy" transform="translate(259.000000, 392.000000)">
+                    <rect id="Rectangle-3-Copy-2" stroke="#8A8B91" fill="#181A1C" x="0.5" y="0.5" width="243.444444" height="44.8333333"></rect>
+                    <text id="#-anti-dilution-shar" font-family="Helvetica" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="22.968967" y="26.2777778"># anti-dilution shares</tspan>
+                    </text>
+                    <text id="=" font-family="Helvetica" font-size="27.5" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="213.888889" y="29.0555556">=</tspan>
+                    </text>
+                </g>
+                <text id="(Share-price-Series" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="22.9166667" fill="#FFFFFF">
+                    <tspan x="292.171984" y="468">(Share price Series A        Broad- </tspan>
+                    <tspan x="295.436415" y="490.916667">based weighted-average price) </tspan>
+                    <tspan x="321.262424" y="513.833333">   # Shares investor A</tspan>
+                </text>
+                <line x1="288.7625" y1="539.5" x2="470.2375" y2="539.5" id="Line-Copy" stroke="#FFFFFF" stroke-width="1.52777778" opacity="0.100000001" stroke-linecap="square"></line>
+                <text id="Broad-based-weighted" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="18.3333333" fill="#8A8B91">
+                    <tspan x="344.784831" y="567">Broad-based </tspan>
+                    <tspan x="315.739149" y="585.333333">weighted-average price</tspan>
+                </text>
+                <g id="minus" transform="translate(410.000000, 460.000000)">
+                    <g id="Group-4">
+                        <rect id="Rectangle-4-Copy-6" fill="#FFFFFF" x="0" y="0" width="14" height="14"></rect>
+                        <polygon id="-" fill="#240048" points="4.27 7.79333333 4.27 6.20666667 9.73 6.20666667 9.73 7.79333333"></polygon>
+                    </g>
+                </g>
+                <g id="mal" transform="translate(311.000000, 506.000000)">
+                    <g id="Group-5" transform="translate(0.015692, 0.000000)">
+                        <rect id="Rectangle-4-Copy-7" fill="#FFFFFF" x="0" y="0" width="13.5" height="14"></rect>
+                        <polygon id="×" fill="#240048" points="7.56 7 9 8.48088889 8.184 9.33955556 6.744 7.85866667 5.328 9.31466667 4.512 8.46844444 5.928 7 4.5 5.51911111 5.316 4.68533333 6.744 6.15377778 8.184 4.66044444 9 5.51911111"></polygon>
+                    </g>
+                </g>
+                <polygon id="Rectangle-3-Copy" fill="#131416" points="521 437 765 437 765 612 521 612"></polygon>
+                <g id="Group-2-Copy" transform="translate(521.000000, 392.000000)">
+                    <rect id="Rectangle-3-Copy-2" stroke="#8A8B91" fill="#181A1C" x="0.5" y="0.5" width="243.444444" height="44.8333333"></rect>
+                    <text id="#-anti-dilution-shar" font-family="Helvetica" font-size="12.2222222" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="22.968967" y="26.2777778"># anti-dilution shares</tspan>
+                    </text>
+                    <text id="=" font-family="Helvetica" font-size="27.5" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="213.888889" y="29.0555556">=</tspan>
+                    </text>
+                </g>
+                <text id="(Share-price-Series" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="22.9166667" fill="#FFFFFF">
+                    <tspan x="541.081434" y="480">(Share price Series A        Share price </tspan>
+                    <tspan x="549.570747" y="502.916667">Series B)         # Shares investor A</tspan>
+                </text>
+                <line x1="550.7625" y1="539.5" x2="732.2375" y2="539.5" id="Line-Copy" stroke="#FFFFFF" stroke-width="1.52777778" opacity="0.100000001" stroke-linecap="square"></line>
+                <text id="Share-price-Series-B" font-family="Roboto-Regular, Roboto" font-size="12.2222222" font-weight="normal" line-spacing="18.3333333" fill="#8A8B91">
+                    <tspan x="586.380642" y="565">Share price Series B</tspan>
+                </text>
+                <g id="minus" transform="translate(661.000000, 472.000000)">
+                    <g id="Group-4">
+                        <rect id="Rectangle-4-Copy-6" fill="#FFFFFF" x="0" y="0" width="14" height="14"></rect>
+                        <polygon id="-" fill="#240048" points="4.27 7.79333333 4.27 6.20666667 9.73 6.20666667 9.73 7.79333333"></polygon>
+                    </g>
+                </g>
+                <g id="mal" transform="translate(605.000000, 495.000000)">
+                    <g id="Group-5" transform="translate(0.015692, 0.000000)">
+                        <rect id="Rectangle-4-Copy-7" fill="#FFFFFF" x="0" y="0" width="13.5" height="14"></rect>
+                        <polygon id="×" fill="#240048" points="7.56 7 9 8.48088889 8.184 9.33955556 6.744 7.85866667 5.328 9.31466667 4.512 8.46844444 5.928 7 4.5 5.51911111 5.316 4.68533333 6.744 6.15377778 8.184 4.66044444 9 5.51911111"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
