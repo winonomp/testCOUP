@@ -6,8 +6,8 @@
   }
 
 .nav{
-    position: relative;
-    z-index: 100;
+    position: relative!important;
+    z-index: 100!important;
 }
   .sticky {
     position: fixed;
